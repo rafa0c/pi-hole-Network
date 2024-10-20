@@ -75,21 +75,13 @@ bgdfvbc
 - Deployed the automation in the live SOC environment.
 - Monitored automation performance to ensure incident escalation works properly.
 - Gathered metrics on improvements in response times and reduction in manual work.
-
 ---
-
 ## 📊 Outcome
 - **70% reduction in false positive alerts**, allowing analysts to focus on real threats.
 - **50% improvement in incident response times** due to automated escalation.
 - Enhanced SOC efficiency and improved collaboration through automated workflows.
 
-  <p align="center">
-Ref 1: _screenshot_ <br/>
-<img srrc="" height="80%" width="80%" alt=""/>
-<br />
-<br />
-</p>
-
+  
 <!--
 Ref 2: Virtual box  <br/>
 <img src="https://i.imgur.com/JBuHLhP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
